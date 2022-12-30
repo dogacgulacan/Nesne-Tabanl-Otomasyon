@@ -1,0 +1,8 @@
+
+
+K. Adi:admin
+Sifre:12345678
+Ad Soyad:admin
+Cinsiyet:Erkek
+D.Tarihi:3 ^ubat 1932
+Adres:malatya
